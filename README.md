@@ -1,6 +1,7 @@
 # DRLSetlistFM
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM)
 
 A Setlist.fm API Swift Package
 
@@ -30,7 +31,7 @@ DRLSetlistFM is available as a Swift Package. To install
 it, simply add the following line to your 'Package.swift' file:
 
 ```ruby
-.package(url: "https://github.com/bdh777psu/DRLSetlistFM", branch: "master"),
+.package(url: "https://github.com/bdh777psu/DRLSetlistFM", branch: "main"),
 ```
 
 ## Author
