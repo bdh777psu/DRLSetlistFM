@@ -1,5 +1,5 @@
 # DRLSetlistFM
-
+[![Build Status](https://app.bitrise.io/app/a0901c4f-20f7-4da9-9eee-765eb2bd0e03/status.svg?token=xYcYNaII0H0jmcJ2Jnz-jg&branch=master)](https://app.bitrise.io/app/a0901c4f-20f7-4da9-9eee-765eb2bd0e03)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FDRLSetlistFM%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/DRLSetlistFM)
 
